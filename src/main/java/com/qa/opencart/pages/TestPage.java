@@ -12,9 +12,20 @@ public class TestPage{
     System.out.println("hello world");
     System.out.println("hello world1");
     System.out.println("hello world2");
-      System.out.println("hello world3");
+
+    System.out.println("hello world3");
     System.out.println("Remote Stash");
       
+
+    System.out.println("hello world3");
+
+    System.out.println("Local Stash1!!");
+    System.out.println("Local Stash2!!");
+    System.out.println("Local Stash3!!");
+    System.out.println("Local Stash1_Master!!");
+    System.out.println("Local Stash2_Master!!");
+    System.out.println("Local Stash_Master3!!");
+
   }
 
 }
